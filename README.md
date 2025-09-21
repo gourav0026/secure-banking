@@ -66,6 +66,12 @@ App: http://localhost:8080
 
 * Screenshots
 
- Accounts API Response
-![Accounts Screenshot](accounts.png)
-![Accounts Screenshot](Secure-Banking.png)
+>>Accounts API Response**  
+![Accounts Screenshot](README/accounts.png)
+
+* Banking API Response**  
+![Banking Screenshot](README/Secure-Banking.png)  
+
+* Author
+- Name: Gourav
+- GitHub: [gourav0026](https://github.com/gourav0026)  
