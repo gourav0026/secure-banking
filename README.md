@@ -38,9 +38,9 @@ The project also includes Spring Security and an H2 in-memory database.
    ./mvnw spring-boot:run
 
 3. Open in the browser:-
-App: http://localhost:8080
+App: http://localhost:9096
 
-> H2 Console: http://localhost:8080/h2-console
+> H2 Console: http://localhost:9096/h2-console
 
      ~ JDBC URL: jdbc:h2:mem:testdb
 
